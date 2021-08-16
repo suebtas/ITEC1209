@@ -1,0 +1,44 @@
+div{
+    border: 5px solid white;
+}
+#yellow{
+    background-color: yellow;
+    min-height: 100px;
+}
+#blue1{
+    background-color: lightblue;
+    min-height: 100px;
+}
+#blue2{
+    background-color: lightblue;
+    min-height: 100px;
+}
+#blue3{
+    background-color: lightblue;
+    min-height: 100px;
+}
+#blue4{
+    background-color: lightblue;
+    min-height: 100px;
+}
+#gray{
+    background-color: gray;
+    min-height: 100px;
+}
+#green{
+    background-color: lightgreen;
+    min-height: 100px;
+}
+#dark_blue{
+    background-color:lightskyblue;
+    min-height: 100px;
+}
+#dark_orange{
+    background-color:orange;
+    min-height: 100px;
+}
+#light_yellow{
+    background-color:lightgoldenrodyellow;
+    min-height: 100px;
+
+}
